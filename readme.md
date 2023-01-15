@@ -65,5 +65,3 @@ Download and copy zip file into your computer, open index.html, then input credi
 * ^ represents the starting of the string.
 * 3[47][0-9]{13} starts with 3 then 4 or 7 followed by 13 digits between 0 to 9.
 * $ represents end of the string.
-
-
