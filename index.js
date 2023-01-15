@@ -1,6 +1,7 @@
 // This program checks for the 5 most popular credit card companies and matches their card numbers
 // Visa, Mastercard, Verve, American Express and Discover
 
+//Connect to HTML tags
 var screenDisplay = document.getElementById('screen');
 var cardNumberInput = document.getElementById('cardNumber');
 
