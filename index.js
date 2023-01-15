@@ -1,5 +1,5 @@
-// This program checks for the 10 most popular credit card companies and matches their card numbers
-// Visa, Mastercard, Verve, Citi, Chase, American Express, Capital One, Bank of America, Wells Fargo, Barclays
+// This program checks for the 5 most popular credit card companies and matches their card numbers
+// Visa, Mastercard, Verve, American Express and Discover
 
 var screenDisplay = document.getElementById('screen');
 var cardNumberInput = document.getElementById('cardNumber');
